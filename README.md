@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Yugam Deogade</h1>
 <h3 align="center">CDAC Student | BTech in Information Technology | Aspiring Software Developer 🚀</h3>
 
 <p align="center">
