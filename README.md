@@ -62,10 +62,10 @@
 ## 🌐 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINK" target="_blank">
+  <a href="www.linkedin.com/in/yugam-deogade-75838b310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/iyugamdeogade" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 </p>
